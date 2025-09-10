@@ -1,4 +1,4 @@
-Titanic Dataset - Machine Learning Practice
+## Titanic Dataset - Machine Learning Practice
 
 This repository contains my learning and practice work with the Titanic dataset, where I explored multiple machine learning algorithms to predict passenger survival.
 
